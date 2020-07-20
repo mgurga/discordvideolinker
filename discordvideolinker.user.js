@@ -5,8 +5,8 @@
 // @author       rokie95
 // @match        https://discord.com/*
 // @grant        none
-// @downloadURL ---
-// @updateURL ---
+// @downloadURL https://github.com/rokie95/discordvideolinker/raw/master/discordvideolinker.user.js
+// @updateURL https://github.com/rokie95/discordvideolinker/raw/master/discordvideolinker.user.js
 // ==/UserScript==
 
 (function() {
